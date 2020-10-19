@@ -1,0 +1,27 @@
+
+.div{
+   width: 100%;
+   text-align: center;
+   }
+   
+   select{
+       width: 10%;
+       font-size: 20px;
+       background: transparent;
+       border: none;
+       outline: none;
+       cursor: pointer;
+   }
+   
+   main{
+       width:75%;
+       height: auto;
+       margin: auto;
+       margin-top: 75px;
+   }
+   
+   div{
+       width: 30%;
+       float: right;
+   }
+   
