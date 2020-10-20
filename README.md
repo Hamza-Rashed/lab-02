@@ -7,7 +7,7 @@ Number and name of feature: Feature #1: Display images
 
 Estimate of time needed to complete: 30 minutes.
 
-Start time: 2:00pm Finish time: 2:25pm
+Start time: 2:00pm Finish time: 2:30pm
 
 Actual time needed to complete: 20 minutes.
 
@@ -15,7 +15,7 @@ Number and name of feature: Feature #2: Filter images
 
 Estimate of time needed to complete: 20 minutes.
 
-Start time: 2:25pm Finish time: 2:40pm
+Start time: 2:30pm Finish time: 2:50pm
 
 Actual time needed to complete: 10 minutes.
 
